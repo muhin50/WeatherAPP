@@ -1,0 +1,69 @@
+.w_ap_top {
+    background-color: rgba(255, 0, 0, 0.65);
+        height: 112vh;;
+}
+.w_app_bg{
+	background-image: url(http://i.giphy.com/10m0K3GpRHQvfO.gif);background-size: cover;background-repeat: no-repeat;height: 100vh;}
+
+.my_design {
+    text-align: center;
+    padding-top: 10%;
+    width: 40%;
+    margin-left: 30%;
+    height: 95vh;
+    background: rgba(26, 24, 24, 0.42);
+}
+#city {
+    font-size: 80px;
+    color: #6fcbd3;
+}
+#country {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    color: #0ff40f;
+}
+#temp{}
+#cityname {
+    height: 57px;
+    background: rgba(187, 143, 143, 0.54);
+    border-color: #f95353;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+#temp {
+    font-size: 130px;
+    font-weight: bold;
+     color: rgb(246, 246, 246);
+}
+#deg{ font-size: 130px;
+    font-weight: bold; color: rgb(246, 246, 246);}
+    .c--anim-btn span {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
+
+.c--anim-btn, .c-anim-btn {
+  transition: 0.3s;     
+}
+
+.c--anim-btn {
+  height: 64px;
+  font: normal normal 700 1em/4em Arial,sans-serif;
+  overflow: hidden;
+  background-color: #3b5998;
+}
+
+.c-anim-btn{
+  margin-top: 0em;   
+}
+
+.c--anim-btn:hover .c-anim-btn{
+  margin-top: -4em;
+}
+
+}
